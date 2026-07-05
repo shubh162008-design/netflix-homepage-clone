@@ -56,9 +56,26 @@ netflix-homepage-clone/
 
 ## 🌐 Live Demo
 
-🚧 **Coming Soon**
+🔗 https://shubh162008-design.github.io/netflix-homepage-clone/
 
 ---
+
+## 📸 Preview
+
+### 🏠 Hero Section
+
+![Hero Section](Assets/Screenshots/hero-section.png)
+
+### ✨ Features Section
+
+![Features Section](Assets/Screenshots/features-section.png)
+
+### ❓ FAQ Section
+
+![FAQ Section](Assets/Screenshots/faq-section.png)
+
+---
+
 
 ## 🎯 What I Learned
 
